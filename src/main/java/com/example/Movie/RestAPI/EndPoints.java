@@ -19,7 +19,7 @@ public class EndPoints {
     
 @RequestMapping("/")
 public @ResponseBody String test(){
-    return "testing";
+    return "morgan smells like shit";
 }
 
 
